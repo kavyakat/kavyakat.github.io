@@ -2,9 +2,9 @@
 @font-face {
   font-family: 'SAP Fiori Icons';
   src:
-    url('https://kavyakat.github.io/sac-fonts/SAP-icons.woff2') format('woff2'),
-		url('https://kavyakat.github.io/sac-fonts/SAP-icons.woff') format('woff'),
-		url('https://kavyakat.github.io/sac-fonts/SAP-icons.ttf') format('truetype');
+    	url('https://kavyakat.github.io/SAP-icons.woff2') format('woff2'),
+	url('https://kavyakat.github.io/SAP-icons.woff') format('woff'),
+	url('https://kavyakat.github.io/SAP-icons.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
