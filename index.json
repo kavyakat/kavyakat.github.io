@@ -12,14 +12,14 @@
     {
       "kind": "main",
       "tag": "com-sap-sample-pyodide-matplotlib",
-      "url": "https://github.com/kavyakat/custom-widget-test/blob/9f2e5928029cfdb365464a827067828c9f9fb737/main.js",
+      "url": "https://kavyakat.github.io/main.js",
       "integrity": "",
       "ignoreIntegrity": true
     },
     {
       "kind": "styling",
       "tag": "com-sap-sample-pyodide-matplotlib-styling",
-      "url": "https://github.com/kavyakat/custom-widget-test/blob/9f2e5928029cfdb365464a827067828c9f9fb737/styling.js",
+      "url": "https://kavyakat.github.io/styling.js",
       "integrity": "",
       "ignoreIntegrity": true
     }
